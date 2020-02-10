@@ -47,7 +47,7 @@ const config: Configuration = {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [],
+  plugins: ["~/plugins/mixin.ts"],
   /*
    ** Global CSS
    */
